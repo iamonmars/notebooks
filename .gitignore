@@ -9,3 +9,13 @@ venv.bak/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Data
+datasets/
+data/
+
+# Maps
+maps/
+
+# Models
+models/
